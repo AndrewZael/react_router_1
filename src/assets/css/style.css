@@ -1,0 +1,15 @@
+:root{
+    --primary: #DC3546;
+    --dark: #121212;
+}
+nav ul li a{
+    text-decoration: none;
+    color: var(--dark);
+}
+nav a:hover, a.active{
+    border-bottom: 2px solid var(--primary);
+    color: var(--primary);
+}
+.full-h{
+    min-height: calc(100vh - 54px);
+}
