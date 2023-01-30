@@ -3,7 +3,7 @@ import cake from "../assets/img/cake.svg";
 
 const Home = () => {
   return (
-    <section className="row container mx-auto align-items-center justify-content-center full-h">
+    <section title="Home" className="row container mx-auto align-items-center justify-content-center full-h">
       <div className="col-12 col-md-5 d-flex flex-column align-items-center mb-3 mb-md-0">
         <h1 className="mb-3">
           <span className="fw-light d-block display-5">Bienvenido a</span> 
