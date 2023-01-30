@@ -19,7 +19,7 @@ const Header = () => {
           }
         </ul>
       </nav>
-      <Link to="/" className='btn'>
+      <Link to="/" className='btn btn-outline-danger'>
           Happy Cake
       </Link>
     </header>
